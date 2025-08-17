@@ -154,7 +154,7 @@ const Quiz = () => {
       </main>
 
       <footer className="quiz-footer">
-        <small>Made like an Apple UI — clean, responsive.</small>
+        <small>Lear More Grow More</small>
       </footer>
     </div>
   );
